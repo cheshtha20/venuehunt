@@ -1,4 +1,4 @@
-# Venue Hunt 🎉
+# Venue Hunt
 
 Venue Hunt is a smart venue recommendation system built using Django and Machine Learning.
 
